@@ -19,6 +19,8 @@ I love uncovering hidden patterns in data and turning them into real-world solut
  Automate **logistics & inventory management workflows**  
  Leverage **machine learning** for data-driven decision-making  
  Optimize **fleet operations & last-mile delivery**  
+![dashboard.PNG](https://github.com/winnier-ops/sales-dashboard/blob/main/dashboard.PNG)
+
 
 ## 🚀 Let’s Collaborate  
 I love sharing my insights and collaborating on **AI-driven supply chain projects**. If you’re interested in **AI, logistics optimization, or data-driven strategies**, let’s connect!  
